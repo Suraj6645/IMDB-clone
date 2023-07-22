@@ -13,7 +13,7 @@ This is a IMDB clone project that allows users to search for movies, view movie 
 
 ## How to Run
 
-1. Clone the repository:
+1. Clone the repository:https://github.com/Suraj6645/IMDB-clone/tree/main
 2. Open the project directory.
 3. Open the `index.html` file in a web browser.
 
@@ -31,7 +31,7 @@ This is a IMDB clone project that allows users to search for movies, view movie 
 
 ## How to Run
 
-1. Clone the repository: 
+1. Clone the repository: https://github.com/Suraj6645/IMDB-clone/tree/main
 2. Open the project directory.
 3. Open the `index.html` file in a web browser.
 
